@@ -4,6 +4,7 @@
 - ##### [Forensics](Forensics)
 - ##### [Programming](Programming)
 - ##### [Web](Web)
+- ##### [Misc](Misc)
 
 ---
 
